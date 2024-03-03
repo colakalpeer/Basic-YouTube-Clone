@@ -28,5 +28,9 @@
 }
 
 .sidebar-link div {
+  font-family: Roboto, Arial;
+  font-size: 10px;
+}
+.sidebar-link div {
   font-size: 10px;
 }
